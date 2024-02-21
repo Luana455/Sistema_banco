@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+F:\It Academy\Exercicio\Exercicio\Menu.cpp(94,16): error C2512: 'Transacoes': no appropriate default constructor available
+F:\It Academy\Exercicio\Exercicio\Transacoes.h(11,7): message : see declaration of 'Transacoes'
+  PainelGeral.cpp
+  Transacoes.cpp
+  Generating Code...
